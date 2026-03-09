@@ -41,24 +41,24 @@ html {
 /* 6. BAGIAN PENTING: KODE UNTUK MEMUNCULKAN FOTO BACKGROUND DI HOME  */
 /* ================================================================= */
 .header-bg-1 {
-    background-image: url('../images/FotoLaut6.jpg');
+    background-image: url('https://picsum.photos/1920/1080?random=35');
 }
 .header-bg-2 {
-    background-image: url('../images/Mangrovee.jpg');
+    background-image: url('https://picsum.photos/1920/1080?random=36');
 }
 .header-bg-3 {
-    background-image: url('../images/Mangrove3.jpg');
+    background-image: url('https://picsum.photos/1920/1080?random=37');
 }
 
 @media (min-width: 768px) {
     .header-bg-1 {
-        background-image: url('../images/CorouselHomeD1.JPG');
+        background-image: url('https://picsum.photos/1920/1080?random=35');
     }
     .header-bg-2 {
-        background-image: url('../images/CorouselHomeD2.jpg');
+        background-image: url('https://picsum.photos/1920/1080?random=36');
     }
     .header-bg-3 {
-        background-image: url('../images/CorouselHomeD3.jpg');
+        background-image: url('https://picsum.photos/1920/1080?random=37');
     }
 }
 
